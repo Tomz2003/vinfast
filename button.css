@@ -1,0 +1,29 @@
+.vinfast-btn {
+    display: inline-block;
+    padding: 12px 24px;
+    background: #0066cc; /* Màu xanh VinFast */
+    color: white;
+    text-decoration: none;
+    border-radius: 4px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    transition: all 0.3s;
+    margin: 10px;
+}
+
+.vinfast-btn:hover {
+    background: #004d99;
+    transform: translateY(-2px);
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+button {
+    padding: 12px 24px;
+    background: #0066cc;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    margin: 10px;
+}
